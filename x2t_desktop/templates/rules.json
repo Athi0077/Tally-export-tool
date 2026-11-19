@@ -1,0 +1,236 @@
+[
+  {
+    "keyword": "ATM",
+    "ledger": "Cash",
+    "vch_type": "Contra",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CASH WDL",
+    "ledger": "Cash",
+    "vch_type": "Contra",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CWDR",
+    "ledger": "Cash",
+    "vch_type": "Contra",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CDM",
+    "ledger": "Cash",
+    "vch_type": "Contra",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CASH DEP",
+    "ledger": "Cash",
+    "vch_type": "Contra",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CDEP",
+    "ledger": "Cash",
+    "vch_type": "Contra",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "SELF",
+    "ledger": "Cash",
+    "vch_type": "Contra",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CHG",
+    "ledger": "Bank Charges",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CHARGES",
+    "ledger": "Bank Charges",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CHQ RTN",
+    "ledger": "Bank Charges",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "SMS CHG",
+    "ledger": "Bank Charges",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "ANNUAL FEE",
+    "ledger": "Bank Charges",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CONSOLIDATED CHG",
+    "ledger": "Bank Charges",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "INT PD",
+    "ledger": "Bank Interest Received",
+    "vch_type": "Receipt",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "INTEREST",
+    "ledger": "Bank Interest Received",
+    "vch_type": "Receipt",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "INT.REC",
+    "ledger": "Bank Interest Received",
+    "vch_type": "Receipt",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CREDIT INT",
+    "ledger": "Bank Interest Received",
+    "vch_type": "Receipt",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "SALARY",
+    "ledger": "Salary Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "PAYROLL",
+    "ledger": "Salary Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "ELECTRICITY",
+    "ledger": "Electricity Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "POWER",
+    "ledger": "Electricity Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "BESCOM",
+    "ledger": "Electricity Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "RENT",
+    "ledger": "Rent Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "OFFICE RENT",
+    "ledger": "Rent Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "INTERNET",
+    "ledger": "Internet & Telephone Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "AIRTEL",
+    "ledger": "Internet & Telephone Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "JIO",
+    "ledger": "Internet & Telephone Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "GST",
+    "ledger": "GST Payable",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "TDS",
+    "ledger": "TDS Payable",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "CHALLAN",
+    "ledger": "Direct Taxes",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "INCOME TAX",
+    "ledger": "Income Tax",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "LIC",
+    "ledger": "Life Insurance",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "INSURANCE",
+    "ledger": "Insurance Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "PREMIUM",
+    "ledger": "Insurance Expenses",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "PETROL",
+    "ledger": "Fuel & Conveyance",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "DIESEL",
+    "ledger": "Fuel & Conveyance",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "HPCL",
+    "ledger": "Fuel & Conveyance",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "BPCL",
+    "ledger": "Fuel & Conveyance",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  },
+  {
+    "keyword": "IOCL",
+    "ledger": "Fuel & Conveyance",
+    "vch_type": "Payment",
+    "match_type": "contains"
+  }
+]
